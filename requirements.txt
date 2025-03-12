@@ -1,0 +1,36 @@
+# Data processing packages
+pandas==2.1.3
+numpy==1.26.2
+scikit-learn==1.3.2
+xgboost==2.0.2
+lightgbm==4.1.0
+category-encoders==2.6.2
+
+# Data acquisition and APIs
+requests==2.31.0
+beautifulsoup4==4.12.2
+selenium==4.16.0
+tqdm==4.66.1
+uk-land-registry-api==0.3.0  # For UK Land Registry data
+
+# Visualization
+matplotlib==3.8.2
+seaborn==0.13.0
+plotly==5.18.0
+dash==2.14.2
+folium==0.15.0  # For map visualizations
+
+# Jupyter notebook
+jupyter==1.0.0
+notebook==7.0.6
+ipywidgets==8.1.1
+
+# Utilities
+python-dotenv==1.0.0  # For environment variables
+schedule==1.2.1  # For task scheduling
+joblib==1.3.2  # For parallel processing
+pyarrow==14.0.1  # For efficient data storage
+openpyxl==3.1.2  # For Excel file reading/writing
+
+# Testing
+pytest==7.4.3 

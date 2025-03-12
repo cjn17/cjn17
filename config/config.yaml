@@ -1,0 +1,63 @@
+# Project Configuration
+
+# Target postcodes
+postcodes:
+  - RM6
+  - RM8
+  - RM9
+  - RM10
+  - IG1
+  - IG2
+  - IG3
+  - IG4
+  - IG5
+  - IG6
+  - IG11
+
+# Data sources
+data_sources:
+  land_registry:
+    url: "https://landregistry.data.gov.uk/data/price-paid-data"
+    download_path: "data/raw/land_registry"
+  rightmove:
+    base_url: "https://www.rightmove.co.uk/property-for-sale/find.html"
+    download_path: "data/raw/rightmove"
+  ons_census:
+    url: "https://www.nomisweb.co.uk/api/v01/dataset"
+    download_path: "data/raw/ons_census"
+  deprivation:
+    url: "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/833970/File_1_-_IMD2019_Index_of_Multiple_Deprivation.xlsx"
+    download_path: "data/raw/deprivation"
+
+# Model configuration
+model:
+  type: "xgboost"  # Options: logistic_regression, random_forest, xgboost
+  target_variable: "will_sell_in_180_days"
+  test_size: 0.2
+  random_state: 42
+  top_n_predictions: 50
+  
+# Feature engineering
+features:
+  ownership_length:
+    enabled: true
+  price_growth:
+    enabled: true
+  local_market:
+    enabled: true
+  property_attributes:
+    enabled: true
+  socioeconomic:
+    enabled: true
+  premium_data:
+    enabled: false  # Set to true if using Experian Mosaic or similar
+    
+# Automation settings
+automation:
+  schedule: "monthly"  # Options: daily, weekly, monthly
+  day_of_month: 1  # For monthly schedule, which day to run on
+  
+# Reporting
+reports:
+  output_dir: "reports"
+  dashboard_template: "reports/templates/dashboard_template.pbix" 
