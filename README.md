@@ -1,86 +1,30 @@
-# Property Sale Predictor
+# Hey, I'm Cameron Nicol (cjn17)  
 
-A machine learning system to predict which residential properties in East London are most likely to be listed for sale within 180 days.
+**Digital Solutions Consultant | Data & AI | Business Growth & Automation**  
 
-## Project Objective
+## What I Do
+- **Data & AI-Powered Solutions** – Building automation, analytics, and machine learning tools to drive decision-making.  
+- **End-to-End Data Strategy** – From data ingestion and pipeline automation to visualization and commercial impact.  
+- **Scaling & Business Growth** – Experience in start-up scaling, CRM development, and revenue growth.  
 
-- Predict residential properties most likely to list for sale within 180 days in specific East London postcodes:
-  - RM6, RM8, RM9, RM10, IG1, IG2, IG3, IG4, IG5, IG6, IG11
-- Monthly analysis of approximately 150,000 properties
-- Output the top 50 most likely-to-sell properties per postcode each month
+## Tech Stack & Skills  
 
-## Project Structure
+### **Data & Analytics**
+- **SQL (Teradata, BigQuery, PostgreSQL)** – Large-scale querying, ETL, and optimization.  
+- **Tableau & Power BI** – Interactive dashboards, storytelling, and insight generation.  
+- **Python (Pandas, NumPy, Scikit-Learn, Flask)** – Data automation, ML models, and web apps.  
 
-- `data/`: Directory for raw and processed data
-  - `raw/`: Raw data from various sources
-  - `processed/`: Cleaned and processed datasets
-- `notebooks/`: Jupyter notebooks for exploration and model development
-- `src/`: Source code
-  - `data/`: Scripts for data acquisition and processing
-  - `features/`: Scripts for feature engineering
-  - `models/`: Model training and prediction code
-  - `visualization/`: Code for generating visualizations and reports
-- `config/`: Configuration files for the project
-- `reports/`: Generated reports and visualizations
-- `tests/`: Unit and integration tests
+### **AI & Automation**
+- **LangChain & OpenAI API** – AI-driven automation for workflow efficiency.  
+- **BigQuery & Cloud Pipelines** – Scalable data solutions and automated decisioning.  
+- **Process Automation** – Streamlining repetitive tasks and data flows.  
 
-## Data Sources
+### **Project & Commercial Strategy**
+- **Scrum Master & Agile Leadership** – Leading cross-functional teams, sprint planning, and stakeholder management.  
+- **Client Management & Pitching** – Delivering commercial strategy, data-driven insights, and business intelligence.  
+- **Revenue Growth & CRM Development** – Self-built CRM systems, sales team leadership, and scaling revenue from £0 to £1.2M.  
 
-- HM Land Registry Price Paid Data
-- Current market listings (Rightmove)
-- ONS Census data
-- Index of Multiple Deprivation
-- Optional: Experian Mosaic or similar segmentation data
+## Contact  
+- **LinkedIn:** [linkedin.com/in/cameronnicol](https://www.linkedin.com/in/cameronnicol/)  
 
-## Feature Engineering
-
-- Length of ownership
-- Estimated current value vs. original purchase price
-- Local market conditions
-- Property attributes
-- Area-level socio-economic proxies
-- Optional premium data features
-
-## Setup and Installation
-
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/property-sale-predictor.git
-cd property-sale-predictor
-
-# Create and activate a virtual environment
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
-
-# Install dependencies
-pip install -r requirements.txt
-```
-
-## Usage
-
-1. Update data sources:
-```bash
-python src/data/update_data.py
-```
-
-2. Run the prediction pipeline:
-```bash
-python src/models/predict.py
-```
-
-3. Generate reports:
-```bash
-python src/visualization/generate_reports.py
-```
-
-## Dashboard
-
-The prediction results can be visualized in the Power BI dashboard (see `reports/dashboard.pbix`).
-
-## Automation
-
-The prediction pipeline is scheduled to run monthly using cron jobs or a similar scheduler.
-
-## License
-
-[Specify License] 
+**Bridging the gap between data, AI, and business strategy.**
