@@ -1,30 +1,21 @@
-# Hey, I'm Cameron Nicol (cjn17)  
+Hey, I'm Cameron Nicol (cjn17) 👋
+Product Manager building the future of AI-native applications.
+I'm a Product Manager passionate about building products at the intersection of AI, data, and developer experience. My focus is on translating complex technical capabilities into intuitive, high-impact tools that users love. I thrive on using data to drive product-led growth, from shaping the initial user journey to optimizing for retention and monetization.
 
-**Digital Solutions Consultant | Data & AI | Business Growth & Automation**  
+What I'm Focused On
+🤖 Building AI-Native Products: Taking ideas from concept to launch, creating tools that leverage LLMs and agentic workflows to solve real-world problems.
 
-## What I Do
-- **Data & AI-Powered Solutions** – Building automation, analytics, and machine learning tools to drive decision-making.  
-- **End-to-End Data Strategy** – From data ingestion and pipeline automation to visualization and commercial impact.  
-- **Scaling & Business Growth** – Experience in start-up scaling, CRM development, and revenue growth.  
+📈 Driving Product-Led Growth: Using data and experimentation to create seamless onboarding, activation, and monetization funnels.
 
-## Tech Stack & Skills  
+🤝 Bridging Commercial & Technical Teams: Embedding quickly with cross-functional teams, working closely with Account Managers and Sales Directors to translate their needs into actionable technical requirements.
 
-### **Data & Analytics**
-- **SQL (Teradata, BigQuery, PostgreSQL)** – Large-scale querying, ETL, and optimization.  
-- **Tableau & Power BI** – Interactive dashboards, storytelling, and insight generation.  
-- **Python (Pandas, NumPy, Scikit-Learn, Flask)** – Data automation, ML models, and web apps.  
+🛠️ Tech & Skills
+Data & Analytics: SQL (Teradata, BigQuery), Tableau, Power BI, Data Modeling & ETL, A/B Testing & Experimentation
 
-### **AI & Automation**
-- **LangChain & OpenAI API** – AI-driven automation for workflow efficiency.  
-- **BigQuery & Cloud Pipelines** – Scalable data solutions and automated decisioning.  
-- **Process Automation** – Streamlining repetitive tasks and data flows.  
+AI & Automation: Python (Pandas, Scikit-Learn), LangChain & OpenAI API, Cloud Pipelines & Automation, Next.js & React
 
-### **Project & Commercial Strategy**
-- **Scrum Master & Agile Leadership** – Leading cross-functional teams, sprint planning, and stakeholder management.  
-- **Client Management & Pitching** – Delivering commercial strategy, data-driven insights, and business intelligence.  
-- **Revenue Growth & CRM Development** – Self-built CRM systems, sales team leadership, and scaling revenue from £0 to £1.2M.  
+Product & Strategy: Agile & Scrum Leadership, Product Requirements Docs (PRDs), Cross-Functional Collaboration, Figma, Notion, Jira, Git
 
-## Contact  
-- **LinkedIn:** [linkedin.com/in/cameronnicol](https://www.linkedin.com/in/cameronnicol/)  
+📫 Get in Touch
 
-**Bridging the gap between data, AI, and business strategy.**
+LinkedIn: https://www.linkedin.com/in/cjn17/
