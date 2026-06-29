@@ -1,25 +1,16 @@
-Hey, I'm Cameron Nicol (cjn17) 👋
+## Cameron Nicol
 
-Product Manager building the future of AI-native applications.
+Product Manager working on AI-native products, data, and developer experience.
 
-I'm a Product Manager passionate about building products at the intersection of AI, data, and developer experience. My focus is on translating complex technical capabilities into intuitive, high-impact tools that users love. I thrive on using data to drive product-led growth, from shaping the initial user journey to optimizing for retention and monetization.
+I build tools that turn technical capabilities — LLMs, agentic workflows, data pipelines — into products people actually use. My focus sits at the intersection of product strategy, data, and growth.
 
-**What I'm Focused On**
+**Currently working on**
+- AI-native product development, concept to launch
+- Product-led growth: onboarding, activation, retention
+- Bridging commercial and technical teams
 
-Building AI-Native Products: Taking ideas from concept to launch, creating tools that leverage LLMs and agentic workflows to solve real-world problems.
+**Working with**
+SQL · Python · Next.js / React · LangChain · BigQuery · Tableau · Figma
 
-Driving Product-Led Growth: Using data and experimentation to create seamless onboarding, activation, and monetization funnels.
-
-Bridging Commercial & Technical Teams: Embedding quickly with cross-functional teams, working closely with Account Managers and Sales Directors to translate their needs into actionable technical requirements.
-
-🛠️ **Tech & Skills**
-
-Data & Analytics: SQL (Teradata, BigQuery), Tableau, Power BI, Data Modeling & ETL, A/B Testing & Experimentation
-
-AI & Automation: Python (Pandas, Scikit-Learn), LangChain & OpenAI API, Cloud Pipelines & Automation, Next.js & React
-
-Product & Strategy: Agile & Scrum Leadership, Product Requirements Docs (PRDs), Cross-Functional Collaboration, Figma, Notion, Jira, Git
-
-📫 Get in Touch
-
-LinkedIn: https://www.linkedin.com/in/cjn17/
+**Find me**
+[LinkedIn](https://www.linkedin.com/in/cjn17/)
